@@ -1,0 +1,22 @@
+﻿Build started 8/1/2014 5:01:49 PM.
+     1>Project "C:\Users\Ben\Documents\GitHub\Coin-Conversion--switch-ver.-\Coin Conversion (switch ver.)\Coin Conversion (switch ver.).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Coin Conversion (switch ver.).pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Coin Conversion (switch ver.).cpp"
+         Coin Conversion (switch ver.).cpp
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(21): error C4700: uninitialized local variable 'penny' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(21): error C4700: uninitialized local variable 'nickel' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(21): error C4700: uninitialized local variable 'dime' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(21): error C4700: uninitialized local variable 'quarter' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(21): error C4700: uninitialized local variable 'dollar' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(21): error C4700: uninitialized local variable 'five_dollar' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(21): error C4700: uninitialized local variable 'ten_dollar' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(21): error C4700: uninitialized local variable 'twenty_dollar' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(21): error C4700: uninitialized local variable 'fifty_dollar' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(21): error C4700: uninitialized local variable 'hundred_dollar' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(27): error C4700: uninitialized local variable 'cents' used
+     1>c:\users\ben\documents\github\coin-conversion--switch-ver.-\coin conversion (switch ver.)\coin conversion (switch ver.).cpp(27): error C4700: uninitialized local variable 'dollars' used
+     1>Done Building Project "C:\Users\Ben\Documents\GitHub\Coin-Conversion--switch-ver.-\Coin Conversion (switch ver.)\Coin Conversion (switch ver.).vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.89
